@@ -136,6 +136,16 @@ input:focus {
     border: #5B92EB 3px solid;
 }
 
+.confirmPassword{
+    position: relative;
+}
+
+.notMatch {
+    display: none;
+    position: absolute;
+    top: 2.5rem       
+}
+
 /* Section 3 */
 
 .section3 {
